@@ -1,0 +1,15 @@
+install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.29/hugo_0.29_Linux-64bit.tar.gz
+  - tar -xzf hugo_0.29_Linux-64bit.tar.gz hugo
+
+script:
+  - ./hugo
+
+# Deploy to GitHub pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: public
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
