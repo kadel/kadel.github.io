@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/kadel/newblog.svg?branch=master)](https://travis-ci.org/kadel/newblog)
