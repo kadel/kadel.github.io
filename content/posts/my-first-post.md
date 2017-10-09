@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2017-10-09T13:42:28+02:00
-draft: true
+draft: false
 categories: ["test category"]
 tags: ["test tag"]
 ---
