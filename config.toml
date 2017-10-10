@@ -6,3 +6,4 @@ theme = "hyde"
 
 [params]
 themeColor = "theme-base-0d"
+description = "nothing interesting here"
