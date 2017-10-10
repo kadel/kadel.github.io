@@ -4,6 +4,21 @@ title = "Tomas Kral"
 
 theme = "hyde"
 
+defaultContentLanguageInSubdir = true
+
 [params]
 themeColor = "theme-base-0d"
+
+
+[Languages]
+
+[Languages.en]
+weight = 1
+[Languages.en.params]
 description = "nothing interesting here"
+
+[Languages.cz]
+weight = 2
+[Languages.cs.params]
+description = "nic moc zajímavého"
+
