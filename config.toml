@@ -1,24 +1,23 @@
 baseURL = "http://tomkral.eu/newblog/"
-languageCode = "en-us"
+languageCode = "en"
 title = "Tomas Kral"
 
 theme = "hyde"
 
 defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
 
 [params]
-themeColor = "theme-base-0d"
-
+    themeColor = "theme-base-0d"
+    description = " "
 
 [Languages]
 
 [Languages.en]
-weight = 1
-[Languages.en.params]
-description = "nothing interesting here"
+    weight = 1
+    description = "nothing interesting here"
 
 [Languages.cz]
-weight = 2
-[Languages.cs.params]
-description = "nic moc zajímavého"
+    weight = 2
+    description = "nic moc zajímavého"
 
