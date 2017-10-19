@@ -14,10 +14,13 @@ DefaultContentLanguage = "en"
 [Languages]
 
 [Languages.en]
+    LanguageName = "english"
     weight = 1
     description = "nothing interesting here"
+    DateFormat =  "01/02/2006"
 
-[Languages.cz]
+[Languages.cs]
+    LanguageName = "czech"
     weight = 2
     description = "nic moc zajímavého"
-
+    DateFormat =  "02.01.2006"
