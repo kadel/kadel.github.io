@@ -10,6 +10,10 @@ DefaultContentLanguage = "en"
 [params]
     themeColor = "theme-base-0d"
     description = " "
+    github = "kadel"
+    twitter = "kadel"
+    facebook = "tomas.kral"
+    linkedin = "kraltomas"
 
 [Languages]
 
@@ -22,5 +26,6 @@ DefaultContentLanguage = "en"
 [Languages.cs]
     LanguageName = "czech"
     weight = 2
+    title = "Tomáš Král"
     description = "nic moc zajímavého"
     DateFormat =  "02.01.2006"
