@@ -3,6 +3,7 @@ title: "Flock 2016 Notes"
 date: 2016-08-17T00:00:00+02:00
 draft: false
 tags: [flock, conference, fedora]
+categories: ["Conference reports"]
 ---
 
 This year during the first week of August (2-5.8.2016) I attended

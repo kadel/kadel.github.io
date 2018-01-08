@@ -7,6 +7,11 @@ theme = "hyde"
 defaultContentLanguageInSubdir = true
 DefaultContentLanguage = "en"
 
+preserveTaxonomyNames = true
+# [taxonomies]
+#     tag = "tags"
+#     category = "categories"
+
 [params]
     themeColor = "theme-base-0d"
     description = " "
