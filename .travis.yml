@@ -8,6 +8,9 @@ install:
 script:
   - ./hugo
 
+before_deploy:
+  - cp index.html ./public/
+
 deploy:
   provider: pages
   skip_cleanup: true

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tomas Kral</title>
+
+    <meta name="robots" content="noindex">
+    <meta charset="utf-8" />
+    <noscript>
+				<link rel="alternate" hreflang="cs" href="/cs" />
+				<link rel="alternate" hreflang="en" href="/en" />
+
+				<link rel="alternate" hreflang="x-default" href="/en" />
+		</noscript>
+
+    <script>
+    	var getFirstBrowserLanguage = function () {
+			let supportedLanguages = ["cs", "en"];
+			let browserLanguagePropertyKeys = ['language', 'browserLanguage', 'systemLanguage', 'userLanguage'];
+
+			for (i=0; i<navigator.languages.length; i++) { 
+				let lang = navigator.languages[i]         
+				if (supportedLanguages.indexOf(lang) !== -1) {
+					return lang;
+				}
+			};
+
+
+			// support for other well known properties in browsers
+			for (i = 0; i < browserLanguagePropertyKeys.length; i++) {
+				let language = window.navigator[browserLanguagePropertyKeys[i]];
+				if (supportedLanguages.indexOf(lang) !== -1) {
+					return language;
+				}
+			}
+			return 'en';
+		};
+
+      let prefLanguage = getFirstBrowserLanguage ();
+	  window.location.href = "/" + prefLanguage;
+    </script>
+  </head>
+<body>
+
+		<noscript>
+			<div style="text-align: center; font-size: 2em;">
+				<a href="/en">Tomas Kral</a> (english version)
+				<br>
+				<a href="/cs">Tomáš Král</a> (česká verze)
+			</div>
+		</noscript>
+
+
+</body>
+</html>
