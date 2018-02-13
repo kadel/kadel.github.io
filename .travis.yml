@@ -1,5 +1,12 @@
+dist: trusty
+sudo: false
+
+branches:
+  only:
+  - hugo
+
 env:
- - HUGO_VERSION=0.30.2
+ - HUGO_VERSION=0.36
 
 install:
   - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
@@ -9,12 +16,15 @@ script:
   - ./hugo
 
 before_deploy:
-  - cp index.html ./public/
+  - cp languageRedirect.html ./public/index.html
+  - cp CNAME ./public/
 
 deploy:
   provider: pages
+  # push to master as users pages has to be in master branch
+  target-branch: master
   skip_cleanup: true
   local_dir: public
   github_token: $GITHUB_TOKEN
   on:
-    branch: master
+    branch: hugo
