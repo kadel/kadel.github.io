@@ -1,0 +1,25 @@
+.languageList {
+    text-align: center;
+}
+
+.languageList:first-child a {
+    margin-right: 1.5em;
+}
+
+.languageList:last-child a {
+    margin-left: 1.5em;
+}
+
+.post-info {
+    padding-left: 0;
+    list-style: none;
+    color: #9a9a9a;
+  }
+
+.sidebar-about{
+    padding-bottom: 1em;
+}
+
+.active-lang {
+    font-weight: bold;
+}

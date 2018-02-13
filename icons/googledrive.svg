@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>googledrive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social-icons" transform="translate(-400.000000, -460.000000)">
+            <g id="googledrive" transform="translate(400.000000, 460.000000)">
+                <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                <circle id="Oval" stroke="#000000" stroke-width="2" cx="22" cy="22" r="21"></circle>
+                <path d="M18.736477,26.1726908 L33,26.1726908 L32.8189087,26.4993307 L29.8399577,31.8915663 L29.7791627,32 L15.3940499,32 L15.5751411,31.6746988 L18.5553857,26.2824632 L18.6148871,26.1726908 L18.736477,26.1726908 Z M26.4522578,24.8099063 L19.5022342,12.352075 L19.3224365,12.0281124 L19.684619,12.0254351 L25.687794,12 L25.8080903,12 L25.8688852,12.1097724 L32.8189087,24.5662651 L33,24.8915663 L32.6378175,24.892905 L26.635936,24.9196787 L26.5143462,24.9196787 L26.4522578,24.8099063 Z M21.4593133,18.476573 L21.3985183,18.5850067 L14.4484948,31.0441767 L14.2661101,31.3681392 L14.0850188,31.0455154 L11.0620884,25.6773762 L11,25.5689424 L11.0620884,25.45917 L18.0121119,13.0013387 L18.1932032,12.6773762 L18.3742944,13.0013387 L21.3985183,18.3668005 L21.4593133,18.476573 Z" id="Shape" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tomas Kral</title>
+    <link>http://tomkral.eu/en/tags/</link>
+    <description>Recent content in Tags on Tomas Kral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Aug 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://tomkral.eu/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference</title>
+      <link>http://tomkral.eu/en/tags/conference/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://tomkral.eu/en/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      <link>http://tomkral.eu/en/tags/fedora/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://tomkral.eu/en/tags/fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flock</title>
+      <link>http://tomkral.eu/en/tags/flock/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://tomkral.eu/en/tags/flock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test tag</title>
+      <link>http://tomkral.eu/en/tags/test-tag/</link>
+      <pubDate>Mon, 09 Oct 2017 13:42:28 +0200</pubDate>
+      
+      <guid>http://tomkral.eu/en/tags/test-tag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

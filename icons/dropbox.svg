@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>dropbox</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Social-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social-icons" transform="translate(-340.000000, -460.000000)">
+            <g id="dropbox" transform="translate(340.000000, 460.000000)">
+                <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                <circle id="Oval" stroke="#000000" stroke-width="2" cx="22" cy="22" r="21"></circle>
+                <path d="M11,23.6907216 L15.4742474,20.0129657 L22,24.1489469 L17.4714252,28.0259313 L11,23.6907216 Z M17.4714252,12 L22,15.8783126 L15.4742474,20.0129657 L11,16.3338815 L17.4714252,12 Z M33,16.3338815 L28.5257526,20.0129657 L22,15.8783126 L26.5285748,12 L33,16.3338815 Z M22,24.1489469 L28.5257526,20.0129657 L33,23.6907216 L26.5285748,28.0259313 L22,24.1489469 Z M22.0129351,24.9830498 L26.5557385,28.8507368 L28.4985889,27.5477832 L28.4985889,29.0087913 L22.0129351,33 L15.5285748,29.0087913 L15.5285748,27.5477832 L17.4714252,28.8507368 L22.0129351,24.9830498 Z" id="Shape" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

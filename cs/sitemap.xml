@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tomkral.eu/cs/posts/prvni-post/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/posts/prvni-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/posts/prvni-post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/cs/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/cs/posts/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/cs/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/cs/tags/test-tag/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/tags/test-tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/tags/test-tag/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/cs/categories/testovac%C3%AD-kategorie/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/cs/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/"
+                />
+  </url>
+  
+</urlset>

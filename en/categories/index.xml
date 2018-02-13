@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tomas Kral</title>
+    <link>http://tomkral.eu/en/categories/</link>
+    <description>Recent content in Categories on Tomas Kral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://tomkral.eu/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference reports</title>
+      <link>http://tomkral.eu/en/categories/conference-reports/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://tomkral.eu/en/categories/conference-reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test category</title>
+      <link>http://tomkral.eu/en/categories/test-category/</link>
+      <pubDate>Mon, 09 Oct 2017 13:42:28 +0200</pubDate>
+      
+      <guid>http://tomkral.eu/en/categories/test-category/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

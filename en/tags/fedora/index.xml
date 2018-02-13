@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fedora on Tomas Kral</title>
+    <link>http://tomkral.eu/en/tags/fedora/</link>
+    <description>Recent content in Fedora on Tomas Kral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Aug 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://tomkral.eu/en/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flock 2016 Notes</title>
+      <link>http://tomkral.eu/en/posts/flock-2016-notes/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://tomkral.eu/en/posts/flock-2016-notes/</guid>
+      <description>This year during the first week of August (2-5.8.2016) I attended Flock to Fedora conference in Krakow. This was my first time at Flock and I must say it was a great event.
+Big thumbs up to all the organizers for putting it together. All the talks that I saw were great. And evening activities were even better :wink:. Every conference night there was some social event prepared for all conference attendees.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tomkral.eu/en/posts/prvni-post/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/posts/prvni-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/posts/prvni-post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/posts/flock-2016-notes/</loc>
+    <lastmod>2016-08-17T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/tags/conference/</loc>
+    <lastmod>2016-08-17T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/categories/conference-reports/</loc>
+    <lastmod>2016-08-17T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/tags/fedora/</loc>
+    <lastmod>2016-08-17T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/tags/flock/</loc>
+    <lastmod>2016-08-17T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/posts/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/tags/</loc>
+    <lastmod>2016-08-17T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/categories/test-category/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/tags/test-tag/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/tags/test-tag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/tags/test-tag/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tomkral.eu/en/</loc>
+    <lastmod>2017-10-09T13:42:28+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="http://tomkral.eu/cs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tomkral.eu/en/"
+                />
+  </url>
+  
+</urlset>

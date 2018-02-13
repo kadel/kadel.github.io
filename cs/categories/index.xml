@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tomáš Král</title>
+    <link>http://tomkral.eu/cs/categories/</link>
+    <description>Recent content in Categories on Tomáš Král</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://tomkral.eu/cs/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Testovací kategorie</title>
+      <link>http://tomkral.eu/cs/categories/testovac%C3%AD-kategorie/</link>
+      <pubDate>Mon, 09 Oct 2017 13:42:28 +0200</pubDate>
+      
+      <guid>http://tomkral.eu/cs/categories/testovac%C3%AD-kategorie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
